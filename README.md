@@ -16,7 +16,7 @@ The OneForTool website is a collection of utility tools designed to make various
 You can access the OneForTool website and use its tools by following these simple steps:
 
 1. Clone the repository:
-  >git clone this repo 
+  >git clone this repo<br/> 
   >cd onefortool-website
 
 
